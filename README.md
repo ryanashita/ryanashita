@@ -1,7 +1,7 @@
 # Hi, I'm Rick! 👋 
 
 
-## 🚀 About Me
+### 🚀 About Me
 My name is Ryunosuke Rick Yanashita, and I am a computer science student. I attend Williams College (MA, USA) and am an aspiring cybersecurity engineer. 
 
 

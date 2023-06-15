@@ -5,13 +5,13 @@
 My name is Ryunosuke Rick Yanashita, and I am a computer science student. I attend Williams College (MA, USA) and am an aspiring cybersecurity engineer. 
 
 
-## 🔗 Links
+### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 
 
-## 🛠 Skills
+### 🛠 Skills
 
 **Languages:** Java, Python, HTML, CSS, Javascript
 
@@ -22,7 +22,7 @@ My name is Ryunosuke Rick Yanashita, and I am a computer science student. I atte
 **Server:** (Looking into SQL)
 
 
-## What I'm Doing Right Now
+### What I'm Doing Right Now
 👩‍💻 I'm currently working on: An advanced Python Keylogger
 
 🧠 I'm currently learning: CompTia Security+, Dafny, Algorithms

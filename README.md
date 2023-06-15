@@ -1,16 +1,47 @@
-### Hi there 👋
+### Hi, I'm Rick! 👋 
 
-<!--
-**RickYanashita15/RickYanashita15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+My name is Ryunosuke Rick Yanashita, and I am a computer science student. I attend Williams College (MA, USA) and am an aspiring cybersecurity engineer. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+
+
+## 🛠 Skills
+
+**Languages:** Java, Python, HTML, CSS, Javascript
+
+**Frameworks:** React Native, Flutter
+
+**OS:** macOS, Windows 10 & 11, Kali Linux 
+
+**Server:** (Looking into SQL)
+
+
+## What I'm Doing Right Now
+👩‍💻 I'm currently working on: An advanced Python Keylogger
+
+🧠 I'm currently learning: CompTia Security+, Dafny, Algorithms
+
+👯‍♀️ I'm looking to collaborate on: Open-source cybersecurity projects
+
+💬 Ask me about: OpenAI Security & Safety
+
+📫 How to reach me: ryanashita15@gmail.com (personal), ry5@williams.edu (college)
+
+⚡️ Fun fact: I run cross-country & track
+
+
+## Projects
+
+Python-Keylogger
+
+My Personal / CS Website
+
+Upcoming: Something using a security API
+
+Upcoming: A SIEM 

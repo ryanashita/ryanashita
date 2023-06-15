@@ -1,4 +1,4 @@
-### Hi, I'm Rick! 👋 
+# Hi, I'm Rick! 👋 
 
 
 ## 🚀 About Me

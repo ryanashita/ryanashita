@@ -21,6 +21,8 @@ I am a computer science student @ Williams College (MA, USA) and an aspiring cyb
 
 **Server:** (Looking into SQL)
 
+**Code Editor:** VSCode
+
 
 ### What I'm Doing Right Now
 👩‍💻 I'm currently working on: An advanced Python Keylogger

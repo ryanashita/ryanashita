@@ -24,9 +24,9 @@ I am a computer science student @ Williams College (MA, USA) and an aspiring cyb
 
 
 ### What I'm Doing Right Now
-👩‍💻 I'm currently working on: An advanced Python Keylogger
+👩‍💻 I'm currently working on: ~
 
-🧠 I'm currently learning: CompTia Security+, Dafny, Algorithms
+🧠 I'm currently learning: Google Cybersecurity Professional Certificate, Dafny, Algorithms
 
 👯‍♀️ I'm looking to collaborate on: Open-source cybersecurity projects
 
@@ -41,7 +41,7 @@ I am a computer science student @ Williams College (MA, USA) and an aspiring cyb
 
 Python-Keylogger
 
-My Personal / CS Website
+My Personal / Resume Website
 
 Caesar Cipher Program
 

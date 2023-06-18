@@ -48,3 +48,7 @@ Caesar Cipher Program
 Upcoming: Something using a security API
 
 Upcoming: A SIEM 
+
+## Learning
+
+AI for Cybersecurity (Starting out with using OpenAI's API)

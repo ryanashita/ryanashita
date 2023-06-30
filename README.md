@@ -1,8 +1,7 @@
 # Hi, I'm Rick! 👋 
 
-
 ### 🚀 About Me
-I am a computer science student @ Williams College (MA, USA) and an aspiring cybersecurity engineer. 
+I am a computer science student @ Williams College (MA, USA) and an aspiring cybersecurity engineer. **My resume is viewable/downloadable in my "Resume" repository, here on GitHub.**
 
 ### 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryunosuke-rick-yanashita/)

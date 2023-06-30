@@ -26,7 +26,7 @@ Google Cybersecurity Professional Certificate: view verification on Credly [here
 ### What I'm Doing Right Now
 👩‍💻 I'm currently working on: Gaining cybersecurity knowledge and practical experience so I can work on some cool projects in the future!
 
-🧠 I'm currently learning: Google Cybersecurity Professional Certificate, Dafny, Algorithms, SQL, AI for Cyber
+🧠 I'm currently learning: Dafny, Algorithms, Advanced SQL, SIEMS and IDS, AI for Cyber
 
 👯‍♀️ I'm looking to collaborate on: Open-source cybersecurity projects
 

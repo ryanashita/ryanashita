@@ -11,25 +11,25 @@ Google Cybersecurity Professional Certificate: view verification on Credly [here
 
 ### 🛠 Skills
 
-**Languages:** Java, Python, HTML, CSS, Javascript, SQL
+**Languages:** Java, Python, HTML, CSS, Javascript, SQL, C, Assembly
 
-**Frameworks:** React Native, Flutter
+**Frameworks:** React.js, Flutter, SUI blockchain
 
 **OS:** macOS, Windows 10 & 11, Kali Linux 
 
 **Server:** mySQL (terminal and PopSQL)
 
-**Code Editor:** VSCode
+**Code Editor:** VSCode, Vim
 
 
 ### What I'm Doing Right Now
-👩‍💻 I'm currently working on: Gaining cybersecurity knowledge and practical experience so I can work on some cool projects in the future!
+👩‍💻 I'm currently working on: Blockchain technology and a fantasy sports app
 
-🧠 I'm currently learning: Dafny, Algorithms, Advanced SQL, SIEMS and IDS, AI for Cyber
+🧠 I'm currently learning: Algorithms, Blockchain (Smart contracts, transactions), AI for Cyber
 
-👯‍♀️ I'm looking to collaborate on: Open-source cybersecurity projects
+👯‍♀️ I'm looking to collaborate on: ~
 
-💬 Ask me about: OpenAI Security & Safety
+💬 Ask me about: OpenAI Security & Safety, Video game development
 
 📫 How to reach me: ryanashita15@gmail.com (personal), ry5@williams.edu (college)
 
@@ -44,8 +44,4 @@ In Progress: My Personal / Resume Website
 
 Caesar Cipher Program
 
-Upcoming: CFT Knowledge Sheet
-
-Upcoming: Something using a security API
-
-Upcoming: A SIEM 
+Upcoming: Fantasy Track

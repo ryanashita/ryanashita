@@ -1,7 +1,7 @@
 # Hi, I'm Rick! 👋 
 
 ### 🚀 About Me
-I am a computer science student @ Williams College (MA, USA) and an aspiring cybersecurity engineer. **My resume is viewable/downloadable in my "Resume" repository, here on GitHub.**
+I am a computer science student @ Williams College (MA, USA) and an aspiring software engineer (full stack, security). **My resume is viewable/downloadable in my "Resume" repository, here on GitHub.**
 
 ### 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryunosuke-rick-yanashita/)
@@ -13,23 +13,23 @@ Google Cybersecurity Professional Certificate: view verification on Credly [here
 
 **Languages:** Java, Python, HTML, CSS, Javascript, SQL, C, Assembly
 
-**Frameworks:** React.js, Flutter, SUI blockchain
+**Frameworks:** React.js, Flutter, SUI blockchain, Node.js
 
 **OS:** macOS, Windows 10 & 11, Kali Linux 
 
-**Server:** mySQL (terminal and PopSQL)
+**Server/Database:** mySQL (terminal and PopSQL) MongoDB
 
 **Code Editor:** VSCode, Vim
 
 
 ### What I'm Doing Right Now
-👩‍💻 I'm currently working on: Blockchain technology and a fantasy sports app
+👩‍💻 I'm currently working on: a Fantasy Track & Field Website
 
-🧠 I'm currently learning: Algorithms, Blockchain (Smart contracts, transactions), AI for Cyber
+🧠 I'm currently learning: Algorithms, Blockchain (Smart contracts, transactions), AI for Cyber, MERN Stack Dev, Cognitive Science 
 
 👯‍♀️ I'm looking to collaborate on: ~
 
-💬 Ask me about: OpenAI Security & Safety, Video game development
+💬 Ask me about: OpenAI Security & Safety, Video game development, MERN Stack Development
 
 📫 How to reach me: ryanashita15@gmail.com (personal), ry5@williams.edu (college)
 
@@ -40,8 +40,8 @@ Google Cybersecurity Professional Certificate: view verification on Credly [here
 
 Python-Keylogger
 
-In Progress: My Personal / Resume Website
+In Progress: Fantasy Track & Field Website
 
 Caesar Cipher Program
 
-Upcoming: Fantasy Track
+(University Course) Cache Simulator

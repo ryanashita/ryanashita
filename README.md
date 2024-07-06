@@ -1,7 +1,7 @@
 # Hi, I'm Rick! 👋 
 
 ### 🚀 About Me
-I am a computer science student @ Williams College (MA, USA) and an aspiring software engineer (full stack, security). **My resume is viewable/downloadable in my "Resume" repository, here on GitHub.**
+I am a computer science student @ Williams College (MA, USA) and an aspiring software engineer. **My resume is viewable/downloadable in my "Resume" repository, here on GitHub.**
 
 ### 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryunosuke-rick-yanashita/)
@@ -11,36 +11,38 @@ Google Cybersecurity Professional Certificate: view verification on Credly [here
 
 ### 🛠 Skills
 
-**Languages:** Java, Python, HTML, CSS, Javascript, SQL, C, Assembly
+**Languages:** Java, Python, HTML, CSS, Javascript, SQL, C, C++, Assembly
 
-**Frameworks:** React.js, Flutter, SUI blockchain, Node.js
+**Frameworks:** React.js, Flutter, SUI blockchain, Node.js, ASP.NET MVC Framework, Bootstrap, MERN stack
 
 **OS:** macOS, Windows 10 & 11, Kali Linux 
 
-**Server/Database:** mySQL (terminal and PopSQL) MongoDB
+**Server/Database:** mySQL (terminal, workbench, and PopSQL), Windows Server & IIS, MongoDB
 
-**Code Editor:** VSCode, Vim
+**Code Editor:** Visual Studio, VSCode, Vim
+
+**Others:** Azure DevOps, Terraform, Docker, Blockchain (SUI, smart contracts, transactions)
 
 
 ### What I'm Doing Right Now
-👩‍💻 I'm currently working on: a Fantasy Track & Field Website
+🏢 I'm currently a Software Engineer @ WebSurfingStudios, LLC. I'm creating full-stack applications with the ASP.NET MVC framework. 
 
-🧠 I'm currently learning: Algorithms, Blockchain (Smart contracts, transactions), AI for Cyber, MERN Stack Dev, Cognitive Science 
+👩‍💻 I'm currently working on: Artificial Evolutionary Life Simulators, a Fantasy Track & Field Website, and a Puzzle Videogame. 
 
-👯‍♀️ I'm looking to collaborate on: ~
-
-💬 Ask me about: OpenAI Security & Safety, Video game development, MERN Stack Development
+🧠 I'm currently learning: Artificial Intelligence (IBM AI Engineering Course), Cognitive Science, Videogame Development. 
 
 📫 How to reach me: ryanashita15@gmail.com (personal), ry5@williams.edu (college)
-
-⚡️ Fun fact: I run cross-country & track
 
 
 ## Projects
 
 Python-Keylogger
 
-In Progress: Fantasy Track & Field Website
+Fantasy Track & Field Website* (In Progress)
+
+Artificial Life Simulators* (In Progress)
+
+Puzzle Videogame* (In Progress)
 
 Caesar Cipher Program
 

@@ -11,7 +11,7 @@ Google Cybersecurity Professional Certificate: view verification on Credly [here
 
 ### 🛠 Skills
 
-**Languages:** Java, Python, HTML, CSS, Javascript, SQL, C, C++, Assembly
+**Languages:** Java, Python, HTML, CSS, Javascript, SQL, C, C#, Assembly
 
 **Frameworks:** React.js, Flutter, SUI blockchain, Node.js, ASP.NET MVC Framework, Bootstrap, MERN stack
 

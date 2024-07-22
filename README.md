@@ -40,10 +40,8 @@ Python-Keylogger
 
 Fantasy Track & Field Website* (In Progress)
 
-Artificial Life Simulators* (In Progress)
+Artificial Life Simulators
 
 Puzzle Videogame* (In Progress)
 
 Caesar Cipher Program
-
-(University Course) Cache Simulator

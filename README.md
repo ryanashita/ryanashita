@@ -3,6 +3,8 @@
 ### 🚀 About Me
 I am a computer science student @ Williams College (MA, USA) and an aspiring software engineer. **My resume is viewable/downloadable in my "Resume" repository, here on GitHub.**
 
+📫 How to reach me: ryanashita15@gmail.com (personal), ry5@williams.edu (college)
+
 ### 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryunosuke-rick-yanashita/)
 
@@ -23,17 +25,6 @@ Google Cybersecurity Professional Certificate: view verification on Credly [here
 
 **Others:** Azure DevOps, Terraform, Docker, Blockchain (SUI, smart contracts, transactions)
 
-
-### What I'm Doing Right Now
-🏢 I'm currently a Software Engineer @ WebSurfingStudios, LLC. I'm creating full-stack applications with the ASP.NET MVC framework. 
-
-👩‍💻 I'm currently working on: Artificial Evolutionary Life Simulators, a Fantasy Track & Field Website, and a Puzzle Videogame. 
-
-🧠 I'm currently learning: Artificial Intelligence (IBM AI Engineering Course), Cognitive Science, Videogame Development. 
-
-📫 How to reach me: ryanashita15@gmail.com (personal), ry5@williams.edu (college)
-
-
 ## Projects
 
 Python-Keylogger
@@ -45,3 +36,7 @@ Artificial Life Simulators
 Puzzle Videogame* (In Progress)
 
 Caesar Cipher Program
+
+"Text Classification Accuracy of Politically-Biased Language Models" Research Paper
+
+Running Training Plan LP/MIP

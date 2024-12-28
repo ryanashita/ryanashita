@@ -13,30 +13,30 @@ Google Cybersecurity Professional Certificate: view verification on Credly [here
 
 ### 🛠 Skills
 
-**Languages:** Java, Python, HTML, CSS, Javascript, SQL, C, C#, Assembly
+**Languages:** Java, Python, HTML, CSS, Javascript, SQL, C, C#, Razor
 
-**Frameworks:** React.js, Flutter, SUI blockchain, Node.js, ASP.NET MVC Framework, Bootstrap, MERN stack
+**Frameworks:** React.js, Flutter, SUI blockchain, Node.js, ASP.NET MVC Framework, Entity Framework, MySQL, Bootstrap, MERN stack
 
-**OS:** macOS, Windows 10 & 11, Kali Linux 
+**Technologies:** PyTorch, NumPy, HuggingFace Transformers, Azure DevOps, Git, Bootstrap, tailwindcss
 
-**Server/Database:** mySQL (terminal, workbench, and PopSQL), Windows Server & IIS, MongoDB
+**OS:** macOS, Windows
+
+**Server/Database:** Windows Server & IIS, MongoDB
 
 **Code Editor:** Visual Studio, VSCode, Vim
 
-**Others:** Azure DevOps, Terraform, Docker, Blockchain (SUI, smart contracts, transactions)
+**Others:** Terraform, Docker, Blockchain (SUI, smart contracts, transactions)
 
 ## Projects
-
-Python-Keylogger
-
-Fantasy Track & Field Website* (In Progress)
-
-Artificial Life Simulators
-
-Puzzle Videogame* (In Progress)
-
-Caesar Cipher Program
 
 "Text Classification Accuracy of Politically-Biased Language Models" Research Paper
 
 Running Training Plan LP/MIP
+
+Sentiment Analysis Movie Analysis
+
+Python-Keylogger
+
+Artificial Life Simulators
+
+Caesar Cipher Program

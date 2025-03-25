@@ -1,7 +1,7 @@
 # Hi, I'm Rick! 👋 
 
 ### 🚀 About Me
-I am a computer science student @ Williams College (MA, USA) and an aspiring software engineer. **My resume is viewable/downloadable in my "Resume" repository, here on GitHub.**
+I am a computer science student @ Williams College (MA, USA) and an aspiring software engineer.
 
 📫 How to reach me: ryanashita15@gmail.com (personal), ry5@williams.edu (college)
 
@@ -13,7 +13,7 @@ Google Cybersecurity Professional Certificate: view verification on Credly [here
 
 ### 🛠 Skills
 
-**Languages:** Java, Python, HTML, CSS, Javascript, SQL, C, C#, Razor
+**Languages:** Python, F#, Java, HTML, CSS, Javascript, SQL, C, C#, Razor
 
 **Frameworks:** React.js, Flutter, SUI blockchain, Node.js, ASP.NET MVC Framework, Entity Framework, MySQL, Bootstrap, MERN stack
 
@@ -24,8 +24,6 @@ Google Cybersecurity Professional Certificate: view verification on Credly [here
 **Server/Database:** Windows Server & IIS, MongoDB
 
 **Code Editor:** Visual Studio, VSCode, Vim
-
-**Others:** Terraform, Docker, Blockchain (SUI, smart contracts, transactions)
 
 ## Projects
 

@@ -1,10 +1,8 @@
-# Hi, I'm Rick! 👋 
+# Hello
 I am a computer science student @ Williams College (MA, USA). Interested in software development, specifically with FP, AI, ML, Web Dev
 
-📫 How to reach me: ryunosukeyanashita@gmail.com
-
-### Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryunosuke-rick-yanashita/)
+email: ryunosukeyanashita@gmail.com
+linkedin: https://www.linkedin.com/in/ryunosuke-rick-yanashita/
 
 ## Projects
 
@@ -20,7 +18,7 @@ Artificial Life Simulators
 
 Caesar Cipher Program
 
-### Skills
+## Skills
 
 **Languages:** Python, F#, HTML, CSS, Javascript, SQL, C, C#, Razor
 
@@ -34,5 +32,5 @@ Caesar Cipher Program
 
 **Code Editor:** Visual Studio, VSCode, Vim
 
-### 🎯 Licenses & Certifications
+## Licenses & Certifications
 Google Cybersecurity Professional Certificate: view verification on Credly [here](https://www.credly.com/badges/931329fe-14a8-4bff-9282-b9dfacfe50e3/linked_in_profile).

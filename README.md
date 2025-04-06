@@ -1,5 +1,5 @@
-# Hello
-I am a computer science student @ Williams College (MA, USA). Interested in software development, specifically with FP, AI, ML, Web Dev
+# Thanks for checking my profile out
+computer science student @ Williams College (MA, USA). interested in software development, specifically with FP, AI, ML, Web Dev
 
 email: ryunosukeyanashita@gmail.com
 linkedin: https://www.linkedin.com/in/ryunosuke-rick-yanashita/

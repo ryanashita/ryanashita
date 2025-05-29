@@ -10,8 +10,6 @@ linkedin: https://www.linkedin.com/in/ryunosuke-rick-yanashita/
 
 Running Training Plan LP/MIP
 
-Sentiment Analysis Movie Analysis
-
 Python-Keylogger
 
 Artificial Life Simulators

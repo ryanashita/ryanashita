@@ -1,4 +1,4 @@
-# Thanks for checking my profile out
+# thanks for checking my profile out
 computer science student @ Williams College (MA, USA). interested in software development, specifically with FP, AI, ML, Web Dev
 
 email: ryunosukeyanashita@gmail.com

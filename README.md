@@ -1,10 +1,12 @@
 # thanks for checking my profile out
-computer science @ Williams College (MA, USA). interested in software development, specifically with FP, AI, ML, Web Dev
+computer science @ Williams College (MA, USA). interested in software development, specifically with programming language development, compiler development, AI/ML, full-stack
 
 email: ryunosukeyanashita@gmail.com
 linkedin: https://www.linkedin.com/in/ryunosuke-rick-yanashita/
 
 ## Projects
+
+Lambda Calculus Parser/Evaluator/Solver in F#
 
 "Text Classification Accuracy of Politically-Biased Language Models" Research Paper
 

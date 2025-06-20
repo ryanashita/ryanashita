@@ -1,4 +1,3 @@
-# thanks for checking my profile out
 computer science @ Williams College (MA, USA). interested in software development, specifically with programming language development, compiler development, AI/ML, full-stack
 
 email: ryunosukeyanashita@gmail.com

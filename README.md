@@ -7,11 +7,15 @@ linkedin: https://www.linkedin.com/in/ryunosuke-rick-yanashita/
 
 ## Projects
 
-Lambda Calculus Parser/Evaluator/Solver in F#
+Lambda Calculus Solver in F#
 
-My own programming language built in F#
+Plus-Lang-Extended Compiler in F#: My own programming language, with lexer, parser, and code generation. 
 
-"Text Classification Accuracy of Politically-Biased Language Models" Research Paper
+"Text Classification Accuracy of Politically-Biased Language Models": NLP Project comparing LLM performance using Python, PyTorch, NumPy, and HuggingFace Transformers. 
+
+BASIC Compiler in Rust
+
+Simple LLVM Passes and Code Optimizations. 
 
 Running Training Plan LP/MIP
 
@@ -20,20 +24,3 @@ Python-Keylogger
 Artificial Life Simulators
 
 Caesar Cipher Program
-
-## Skills
-
-**Languages:** Python, F#, HTML, CSS, Javascript, SQL, C, C#, Razor
-
-**Frameworks:** React.js, Flutter, SUI blockchain, Node.js, ASP.NET MVC Framework, Entity Framework, MySQL, Bootstrap, MERN stack
-
-**Technologies:** PyTorch, NumPy, HuggingFace Transformers, Azure DevOps, Git, Bootstrap, tailwindcss
-
-**OS:** macOS, Windows
-
-**Server/Database:** Windows Server & IIS, MongoDB
-
-**Code Editor:** Visual Studio, VSCode, Vim
-
-## Licenses & Certifications
-Google Cybersecurity Professional Certificate: view verification on Credly [here](https://www.credly.com/badges/931329fe-14a8-4bff-9282-b9dfacfe50e3/linked_in_profile).

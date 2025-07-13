@@ -22,5 +22,3 @@ Running Training Plan LP/MIP
 Python-Keylogger
 
 Artificial Life Simulators
-
-Caesar Cipher Program

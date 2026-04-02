@@ -1,11 +1,13 @@
 computer science @ Williams College (MA, USA). 
 
-interested in programming language development, compiler development, internal tools, AI/ML, full-stack.
+interested in compiler/programming language development, hft low-latency systems, AL/ML, internal tools
 
 email: ryunosukeyanashita@gmail.com
 linkedin: https://www.linkedin.com/in/ryunosuke-rick-yanashita/
 
 ## Projects
+
+Compiler for custom DSL running on NVIDIA GPU (repo currently called Yanashita-tutorials)
 
 Lambda Calculus Solver in F#
 

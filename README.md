@@ -7,7 +7,7 @@ linkedin: https://www.linkedin.com/in/ryunosuke-rick-yanashita/
 
 ## Projects
 
-Compiler for custom DSL running on NVIDIA GPU (repo currently called Yanashita-tutorials)
+Compiler for custom DSL to execute kernels on NVIDIA GPU (repo currently called Yanashita-tutorials)
 
 Lambda Calculus Solver in F#
 

@@ -2,7 +2,7 @@ computer science @ Williams College (MA, USA).
 
 C++ focused
 
-interested in compiler/programming language development, concurrent low-latency systems, AL/ML, internal tools
+interested in compiler/programming language development, concurrent low-latency systems, internal tools
 
 email: ryunosukeyanashita@gmail.com
 linkedin: https://www.linkedin.com/in/ryunosuke-rick-yanashita/

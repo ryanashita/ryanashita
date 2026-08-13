@@ -2,7 +2,7 @@ computer science @ Williams College (MA, USA).
 
 experienced in C++, Python, Rust, F#, C#
 
-interested in compiler/programming language development, concurrent low-latency systems, internal tools
+interested in compiler/programming language development, concurrent low-latency systems, and tools
 
 email: ryunosukeyanashita@gmail.com
 linkedin: https://www.linkedin.com/in/ryunosuke-rick-yanashita/

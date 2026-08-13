@@ -1,6 +1,6 @@
 computer science @ Williams College (MA, USA). 
 
-proficient in C++. experienced in C++, Python, Rust, F#, C#
+experienced in C++, Python, Rust, F#, C#
 
 interested in compiler/programming language development, concurrent low-latency systems, internal tools
 

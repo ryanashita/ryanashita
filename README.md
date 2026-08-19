@@ -1,4 +1,6 @@
-computer science @ Williams College (MA, USA). 
+graduated computer science '26 @ Williams College (MA, USA). 
+
+looking for work in systems, compilers, c++
 
 experienced in C++, Python, Rust, F#, C#
 
@@ -6,6 +8,9 @@ interested in compiler/programming language development, concurrent low-latency 
 
 email: ryunosukeyanashita@gmail.com
 linkedin: https://www.linkedin.com/in/ryunosuke-rick-yanashita/
+
+## Open Source
+Open source contributor for LLVM
 
 ## Projects
 

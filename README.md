@@ -1,6 +1,6 @@
 graduated undergrad computer science '26 @ Williams College (MA, USA). 
 
-looking for work in systems, compilers, c++
+looking for work in traditional compilers, ML compilers, kernels, systems, c++
 
 experienced in C++, Python, F#, C#
 

@@ -4,7 +4,7 @@ looking for work in traditional compilers, ML compilers, kernels, systems, c++
 
 experienced in C++, Python, F#, C#
 
-interested in compiler/programming language development and tools
+super super interested in compiler/programming language development and tools
 
 email: ryunosukeyanashita@gmail.com
 

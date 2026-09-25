@@ -11,7 +11,7 @@ email: ryunosukeyanashita@gmail.com
 linkedin: [https://www.linkedin.com/in/ryunosuke-rick-yanashita](https://www.linkedin.com/in/ryunosuke-rick-yanashita)
 
 ## Open Source contributions for LLVM
-- **[llvm/llvm-project PR #219598](https://github.com/llvm/llvm-project/pull/219598)**
+- **[llvm/llvm-project PR #219598](https://github.com/llvm/llvm-project/pull/219598) [InstCombine][Transforms][Missed-Optimization][Regression][Clang 14]**
   - Added an optimization in InstCombine for combining adjacent extracted bit fields, which restored an optimization regression which started in Clang 14
   - Involves separate truncation + logical right shift, and bitfield extraction.
   - The fold combines: ``` (trunc (lshr X, S) & M0) | (lshr (trunc X), S & M1) --> (trunc (lshr X, S) & (C0 | C1)) ```

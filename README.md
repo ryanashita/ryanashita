@@ -16,6 +16,8 @@ linkedin: [https://www.linkedin.com/in/ryunosuke-rick-yanashita](https://www.lin
   - Involves separate truncation + logical right shift, and bitfield extraction.
   - The fold combines: ``` (trunc (lshr X, S) & M0) | (lshr (trunc X), S & M1) --> (trunc (lshr X, S) & (C0 | C1)) ```
   - Added an alive2 proof, and implemented positive, negative, multi-use, commuted, and vector tests
+ 
+## Contributions to Oberon
 
 ## Projects
 
